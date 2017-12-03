@@ -556,11 +556,11 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: Hololens-SBX
   metroPackageVersion: 
-  metroCertificatePath: 
+  metroCertificatePath: C:\Users\mjhar\OneDrive\Documents\GitHub\Hololens-SBX\Hololens-SBX\Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: DefaultCompany
+  metroCertificateIssuer: DefaultCompany
+  metroCertificateNotAfter: 007a0755688bd401
   metroApplicationDescription: Hololens-SBX
   wsaImages: {}
   metroTileShortName: 
